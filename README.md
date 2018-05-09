@@ -3,7 +3,7 @@
 ## http://ibm.biz/20180509
 
 #### Lennart Frantzell, IBM Developer Advocate
-#### Hobbbbbrea Porutio, IBM Developer Advocate
+#### Horea Porutio, IBM Developer Advocate
 #### Maya Reyes, IBM City execution Leader
 
 
