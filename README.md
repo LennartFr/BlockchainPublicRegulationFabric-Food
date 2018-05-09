@@ -1,4 +1,6 @@
-# BlockchainPublicRegulationFabric-Food
+# BlockchainPublicRegulationFabric-Food  http://ibm.biz/20180509
+
+# Developer Journey
 
 In this journey, we capture the regulatory compliance logic for the Food Supplier Verification Program in a smart contract deployed on a business network.
 
