@@ -8,6 +8,24 @@
 ## IBM Code Pattern: http://ibm.biz/blockchainpattern050918 
 ## IBM Cloud: http://ibm.biz/blockchain050918 
 
+<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
+
+# From the press: Blockchain in action <p> 
+  
+ <img src="https://farm5.staticflickr.com/4085/4948614041_8424d93588_b.jpg" width="640" height="412" alt="MAERSK SAIGON - IMO: 9303534">
+  
+<a href="http://fortune.com/2018/01/16/ibm-blockchain-maersk-company/">IBM and Maersk Are Creating a New Blockchain Company</a>  
+IBM and Danish shipping giant Maersk are teaming up to form a new company whose aim is to commercialize blockchain technology—the nifty, shared accounting ledgers first made famous by the cryptocurrency Bitcoin.
+<p>
+
+<a href="http://fortune.com/2017/10/16/ibm-blockchain-stellar/">IBM and Stellar Are Launching Blockchain Banking Across Multiple Countries</a>
+<p>
+
+# Blockchain Use cases
+# [Blockchain use cases from IBM](https://www.ibm.com/blockchain/use-cases/)
+
+<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
+
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
