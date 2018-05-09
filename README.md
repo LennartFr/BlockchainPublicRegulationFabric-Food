@@ -98,8 +98,9 @@ In Hyperledger Composer: save data model as a .bna file.
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
-
 # BlockchainPublicRegulationFabric-Food
+
+<img src="https://farm1.staticflickr.com/904/28128219428_af42b2d118_z.jpg" width="640" height="355" alt="FDA Foreign supplier">
 
 In this journey, we capture the regulatory compliance logic for the Food Supplier Verification Program in a smart contract deployed on a business network.
 
