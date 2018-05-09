@@ -5,12 +5,21 @@
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
-## IBM Code Patterns: http://ibm.biz/blockchainpattern050918 
+## IBM Code Pattern: http://ibm.biz/blockchainpattern050918 
 ## IBM Cloud: http://ibm.biz/blockchain050918 
 
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
+# Hyperledger Composer
+
+<img src="https://farm1.staticflickr.com/968/27085403057_c8a2ccd0cc_z.jpg" width="640" height="202" alt="composer">
+
+https://www.hyperledger.org/projects/composer
+
+[Composer Playground](https://composer-playground.mybluemix.net/login)
+
+<img src="https://cdn-images-1.medium.com/max/1600/0*mQOJAR6zZtU6esW6.png">
 
 <img src="https://farm1.staticflickr.com/960/41055079635_d00c82c7dd_z.jpg" width="640" height="203" alt="fabric">
 
@@ -21,14 +30,6 @@ https://www.hyperledger.org/projects/fabric
 Hyperledger, an open source collaborative effort to advance cross-industry blockchain technologies, 
 is hosted by The Linux Foundation®. 
 
-# Hyperledger Composer
-
-<img src="https://farm1.staticflickr.com/968/27085403057_c8a2ccd0cc_z.jpg" width="640" height="202" alt="composer">
-
-https://www.hyperledger.org/projects/composer
-
-[Composer Playground](https://composer-playground.mybluemix.net/login)
-
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
 <img src="https://www.ibm.com/developerworks/cloud/library/cl-deploy-sample-application-ibm-blockchain-platform/image001.jpg">
@@ -37,7 +38,7 @@ https://www.hyperledger.org/projects/composer
 
 [IBM Blockchain Platform](https://console.bluemix.net/developer/blockchain/dashboard)
 
-<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
+
 
 
 # Developer Journey
