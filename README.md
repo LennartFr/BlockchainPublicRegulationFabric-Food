@@ -1,4 +1,4 @@
-# BlockchainPublicRegulationFabric-Food  
+# Learn how to build and deploy Hyperledger Applications
 
 ## http://ibm.biz/20180509
 
