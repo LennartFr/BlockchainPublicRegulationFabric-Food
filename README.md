@@ -65,11 +65,6 @@ is hosted by The Linux Foundation®.
 In Hyperledger Composer: save data model as a .bna file.
 
 ## Step 5: Deploy the business network to Hyperledger Fabric. 
-* This requires the Hyperledger Composer chaincode to be installed on the peer,
-* then the business network archive (.bna) must be sent to the peer, 
-* and a new participant, identity, and associated card must be created to be the network administrator. 
-* Finally, the network administrator business network card must be imported for use, 
-* and the network can then be pinged to check it is responding.
 
 [Step by step description](https://developer.ibm.com/code/patterns/decentralized-energy-hyperledger-composer/)
 
